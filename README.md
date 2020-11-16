@@ -1,3 +1,27 @@
+# Amazon Clone
+
+A functioning demo with a home page, account, products, shopping cart, check-out, payments, and order history
+
+## Preview
+
+![App Demo](./public/Amazon_Demo_01.GIF)
+![App Demo](./public/Amazon_Demo_02.GIF)
+![App Demo](./public/Amazon_Demo_03.GIF)
+![App Demo](./public/Amazon_Demo_04.GIF)
+![App Demo](./public/Amazon_Demo_05.GIF)
+
+## Build With
+
+- [Javascript]()
+- [Create React App](https://create-react-app.dev/)
+- [React.js](https://reactjs.org/)
+- [React Router](https://reactrouter.com/)
+- [Express.js](https://expressjs.com/)
+- [Node.js](https://nodejs.org/)
+- [Firebase](https://firebase.google.com/)
+- [Stripe](https://stripe.com/)
+
+```
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +92,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+```
