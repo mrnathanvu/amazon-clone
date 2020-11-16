@@ -1,6 +1,7 @@
-# Amazon Clone
+# E-Commerce Store
 
-A functioning demo with a home page, account, products, shopping cart, check-out, payments, and order history
+> https://challenge-de188.web.app/
+> A functioning demo with a home page, account, products, shopping cart, check-out, payments, and order history
 
 ## Preview
 
@@ -22,6 +23,7 @@ A functioning demo with a home page, account, products, shopping cart, check-out
 - [Stripe](https://stripe.com/)
 
 ```
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
