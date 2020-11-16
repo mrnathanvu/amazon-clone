@@ -2,7 +2,7 @@
 
 > https://challenge-de188.web.app/
 
-A functioning demo with a home page, account, products, shopping cart, check-out, payments, and order history
+A functioning demo with a home page, account, products, shopping cart, checkout, payments, and order history
 
 ## Preview
 
