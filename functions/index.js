@@ -22,7 +22,10 @@ app.use(express.json());
 // API routes
 app.get('/', (request, response) => response.status(200).send('Hello World'));
 
+// app.get('/nathanvu', (request, response) => response.status(200).send('Testing'));
+
 app.post('/payments/create', async (request, response) => {
+    // const total = request.params;
     const total = request.query.total;
     console.log('PAYMENT REQUEST RECIEVED: ', total)
 

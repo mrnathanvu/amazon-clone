@@ -35,8 +35,8 @@ function Payment() {
         getClientSecret();
     }, [basket])
 
-    console.log('THE SECRET IS: ', clientSecret)
-    console.log('USER', user)
+    // console.log('THE SECRET IS: ', clientSecret)
+    // console.log('USER', user)
 
     const handleSubmit = async (event) => {
         // STRIPE
