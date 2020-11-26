@@ -1,8 +1,9 @@
-# E-Commerce Store
+# Endless Cart
 
 > https://challenge-de188.web.app/
 
-A functioning demo with a home page, account, products, shopping cart, checkout, payments, and order history
+- An e-commerce website demo with a home page, the ability to create an account, view order history, and an administrator backend.
+- Browse products online, add to a shopping cart, calculate order total, and order checkout using Stripe payments.
 
 ## Preview
 
@@ -22,6 +23,7 @@ A functioning demo with a home page, account, products, shopping cart, checkout,
 - [Node.js](https://nodejs.org/)
 - [Firebase](https://firebase.google.com/)
 - [Stripe](https://stripe.com/)
+- [Axios](https://www.npmjs.com/package/axios)
 
 ```
 
