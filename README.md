@@ -2,8 +2,11 @@
 
 > https://challenge-de188.web.app/
 
-- An e-commerce website demo with a home page, the ability to create an account, view order history, and an administrator backend.
-- Browse products online, add to a shopping cart, calculate order total, and order checkout using Stripe payments.
+- A browser-based streaming music app deployed with Firebase, including Spotify Accounts service for user authentication.
+
+- Coded to fetch metadata with Spotify Web API endpoints and retrieve a user’s profile (ID, name, email, profile picture, followers), user playlists, saved track data, and track information from the Spotify Data Catalog with artist, album information, and artwork.
+
+- Solved a method for free accounts to preview songs using React useRef hook with the Spotify Web API, playing locally without the Spotify Web Playback SDK.
 
 ## Preview
 
@@ -16,14 +19,15 @@
 ## Build With
 
 - [Javascript]()
-- [Create React App](https://create-react-app.dev/)
 - [React.js](https://reactjs.org/)
 - [React Router](https://reactrouter.com/)
-- [Express.js](https://expressjs.com/)
+- [Axios](https://www.npmjs.com/package/axios)
+- [Material-UI](https://material-ui.com/)
 - [Node.js](https://nodejs.org/)
+- [Express.js](https://expressjs.com/)
 - [Firebase](https://firebase.google.com/)
 - [Stripe](https://stripe.com/)
-- [Axios](https://www.npmjs.com/package/axios)
+- [Create React App](https://create-react-app.dev/)
 
 ```
 
